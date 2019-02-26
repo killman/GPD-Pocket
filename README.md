@@ -1,1 +1,1 @@
-# GPD-Pocket
+# unixlegion.com/gpdpocket
